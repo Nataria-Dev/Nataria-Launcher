@@ -5,4 +5,12 @@
 
 # NatariaLauncher
 
+Launcher lancement MCP et Client MCP non dispo sur notre github :)
+Launcher par LunarXAstro#8202
+Languages de codes
+
+HTML, CSS, JS, EJS
+
 # Template by HeliosLauncher
+
+https://github.com/dscalzi/HeliosLauncher
